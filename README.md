@@ -1,36 +1,144 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AuraPrep AI
 
-## Getting Started
+🚀 AuraPrep AI is an AI-powered interview preparation platform designed to help candidates practice mock interviews, improve communication skills, and receive detailed performance feedback through an interactive interview simulation experience.
 
-First, run the development server:
+---
+
+## Live Demo
+
+https://aura-prep-ai.vercel.app/
+
+---
+
+## Features
+
+### AI Mock Interviews
+- Role-based interview generation
+- Frontend, Backend, Full Stack, HR, and Behavioral interviews
+- Dynamic question flow
+- Multiple difficulty levels
+
+### Interview Dashboard
+- Session tracking
+- Interview history
+- Progress analytics
+- Performance overview
+
+### AI Evaluation
+- Technical assessment
+- Communication analysis
+- Behavioral evaluation
+- Personalized feedback
+
+### Performance Reports
+- Overall interview score
+- Question-wise breakdown
+- Strength analysis
+- Improvement recommendations
+
+### Modern User Experience
+- Dark themed interface
+- Responsive design
+- Smooth animations
+- Professional dashboard layout
+
+---
+
+## Tech Stack
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### Backend
+- Node.js
+- API Routes
+
+### AI Integration
+- OpenAI API
+- Speech Recognition
+- AI Feedback Engine
+
+---
+
+## Project Structure
+
+```bash
+AuraPrep-AI/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── hooks/
+│   ├── services/
+│   ├── utils/
+│   └── styles/
+│
+├── package.json
+├── tsconfig.json
+└── README.md
+```
+
+---
+
+## Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/vanshika2205/AuraPrep-AI.git
+```
+
+Navigate into project
+
+```bash
+cd AuraPrep-AI
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Future Enhancements
 
-## Learn More
+- Voice-based AI interviewer
+- Resume Analyzer
+- ATS Resume Score Checker
+- Live Peer-to-Peer Mock Interviews
+- Company Specific Interview Tracks
+- AI Learning Roadmaps
+- Video Confidence Analysis
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Screenshots
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<img width="1262" height="618" alt="image" src="https://github.com/user-attachments/assets/1fdb471d-518c-4126-8779-4061e0e61219" />
+<img width="1235" height="583" alt="image" src="https://github.com/user-attachments/assets/54989a0e-7f78-447c-9092-9c0b39a98a6b" />
 
-## Deploy on Vercel
+<img width="2496" height="1240" alt="image" src="https://github.com/user-attachments/assets/0dd5a844-faed-4c6b-824f-e024eb6ec89c" />
+<img width="2502" height="1202" alt="image" src="https://github.com/user-attachments/assets/436c2f27-f1b5-439b-9b54-daf13cf966b9" />
+<img width="1248" height="609" alt="image" src="https://github.com/user-attachments/assets/e2f42058-72ae-4396-9b7b-d1e2976095f9" />
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+---
+
+## Author
+
+**Vanshika Bansal**
+
